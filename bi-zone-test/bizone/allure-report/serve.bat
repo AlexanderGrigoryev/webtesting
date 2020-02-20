@@ -1,0 +1,1 @@
+call .\generator\bin\allure serve .\buffer
